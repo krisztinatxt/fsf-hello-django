@@ -26,7 +26,7 @@ SECRET_KEY = 'j3(*=5fhkh9p0__m%me*njv_0fjfoz+l@$@a4-ipd9i1#yp-+w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['krisztinatxt-django-todo-app.herokuapp.com']
 
 
 # Application definition
